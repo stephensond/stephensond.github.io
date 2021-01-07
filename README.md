@@ -1,3 +1,0 @@
-# stephensond.github.io
-
-Test
