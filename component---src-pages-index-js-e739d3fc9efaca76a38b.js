@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{190:function(e,n,t){"use strict";t.r(n);var a=t(0),c=t.n(a);t(191);n.default=function(){return c.a.createElement("div",{className:"background"},c.a.createElement("h1",{className:"content"},"Under construction."),c.a.createElement("p",{className:"subcontent"},"Coming soon!"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-e739d3fc9efaca76a38b.js.map
