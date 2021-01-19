@@ -1,9 +1,11 @@
 import React from "react";
+import "../styles/index.css";
 
 const HomePage = () => {
   return (
-    <div>
-      <hi>Hello?</hi>
+    <div className="background">
+      <h1 className="content">Under construction.</h1>
+      <p className="subcontent">Coming soon!</p>
     </div>
   );
 };
